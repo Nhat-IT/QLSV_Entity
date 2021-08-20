@@ -1,0 +1,16 @@
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\bin\Debug\CodeFirst_2008.exe.config
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\bin\Debug\CodeFirst_2008.exe
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\bin\Debug\CodeFirst_2008.pdb
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\bin\Debug\EntityFramework.dll
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\bin\Debug\EntityFramework.xml
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.csproj.AssemblyReference.cache
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.Properties.Resources.resources
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.csproj.GenerateResource.cache
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.csproj.CoreCompileInputs.cache
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.csproj.CopyComplete
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.exe
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.pdb
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008.Form1.resources
+C:\Users\taiba\source\repos\CodeFirst_2008\CodeFirst_2008\obj\Debug\CodeFirst_2008._1GUI.Form2.resources
